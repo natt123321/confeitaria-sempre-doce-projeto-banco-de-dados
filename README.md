@@ -25,3 +25,9 @@ A *Confeitaria Sempre Doce* deseja expandir sua atuação, criando um site para 
  - Telefone;
  - Endereço;
  - Texto da mensagem.
+
+ ## Modelagem conceitual
+ ![](modelovisual.png)
+
+ ## Modelo lógico
+ ![](modelovisual2.png)
